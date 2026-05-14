@@ -1,23 +1,30 @@
 [
   {
-    "id": "allconfs",
-    "name": "AllConfs",
-    "url": "https://www.allconfs.org/",
-    "priority": "aggregator",
-    "parser": "generic-link-date"
-  },
-  {
-    "id": "sinoconf",
-    "name": "SinoConf",
-    "url": "https://sinoconf.napstic.cn/index",
-    "priority": "aggregator-cn",
-    "parser": "generic-link-date"
-  },
-  {
-    "id": "competehub",
-    "name": "CompeteHub",
-    "url": "https://www.competehub.dev/zh",
+    "id": "kaggle-mm",
+    "name": "Kaggle Multimodal Competitions",
+    "url": "https://www.kaggle.com/competitions",
     "priority": "competition-aggregator",
+    "parser": "generic-link-date"
+  },
+  {
+    "id": "openreview-mm",
+    "name": "OpenReview Multimodal Tracks",
+    "url": "https://openreview.net/",
+    "priority": "academic-review",
+    "parser": "generic-link-date"
+  },
+  {
+    "id": "cvpr",
+    "name": "CVPR",
+    "url": "https://cvpr.thecvf.com",
+    "priority": "official-conference",
+    "parser": "generic-link-date"
+  },
+  {
+    "id": "aclweb",
+    "name": "ACLWeb",
+    "url": "https://www.aclweb.org",
+    "priority": "official-conference",
     "parser": "generic-link-date"
   }
 ]
