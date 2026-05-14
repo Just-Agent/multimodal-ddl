@@ -1,0 +1,74 @@
+[
+  {
+    "id": "multimodal-ddl-1",
+    "title": "MMMU Challenge 2026",
+    "deadline": "2026-08-15T23:59:59",
+    "dateRange": "2026-08-15",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "MM Understanding",
+      "Reasoning"
+    ],
+    "url": "https://mmmu-benchmark.github.io",
+    "status": "upcoming",
+    "stage": "Leaderboard",
+    "source": "Benchmark demo",
+    "type": "challenge",
+    "description": "多模态理解 benchmark demo。"
+  },
+  {
+    "id": "multimodal-ddl-2",
+    "title": "VQA Challenge 2026",
+    "deadline": "2026-07-01T23:59:59",
+    "dateRange": "2026-07-01",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "VQA",
+      "Vision-Language"
+    ],
+    "url": "https://visualqa.org",
+    "status": "upcoming",
+    "stage": "Submission",
+    "source": "Benchmark demo",
+    "type": "challenge",
+    "description": "视觉问答评测 demo。"
+  },
+  {
+    "id": "multimodal-ddl-3",
+    "title": "AIGC Evaluation 2026",
+    "deadline": "2026-09-30T23:59:59",
+    "dateRange": "2026-09-30",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "AIGC",
+      "Generation"
+    ],
+    "url": "https://www.kaggle.com/competitions",
+    "status": "upcoming",
+    "stage": "Final submit",
+    "source": "Kaggle-style demo",
+    "type": "challenge",
+    "description": "生成式 AI 评测 demo。"
+  },
+  {
+    "id": "multimodal-ddl-4",
+    "title": "CVPR VLM Workshop Paper",
+    "deadline": "2026-12-01T23:59:59",
+    "dateRange": "2026-12-01",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "VLM",
+      "Workshop"
+    ],
+    "url": "https://cvpr.thecvf.com",
+    "status": "upcoming",
+    "stage": "Workshop paper",
+    "source": "Demo seed",
+    "type": "program",
+    "description": "VLM workshop paper demo。"
+  }
+]
