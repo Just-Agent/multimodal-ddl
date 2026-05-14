@@ -40,7 +40,9 @@ Multimodal-DDL 负责 VLM / AIGC / 多模态理解生成、视频图像语言挑
 
 | 类别 | 示例 | 当前处理方式 |
 | --- | --- | --- |
-| 多模态会议 | MM / CVPR / ACL workshop | 维护投稿和 shared task 节点 |`n| VLM Benchmark | 图文理解 / 视频理解 / grounding | 记录榜单冻结和提交截止 |`n| AIGC 挑战 | 生成式图像 / 视频 / 音频 | 跟踪作品提交、评审、决赛节点 |
+| 多模态会议 | MM / CVPR / ACL workshop | 维护投稿和 shared task 节点 |
+| VLM Benchmark | 图文理解 / 视频理解 / grounding | 记录榜单冻结和提交截止 |
+| AIGC 挑战 | 生成式图像 / 视频 / 音频 | 跟踪作品提交、评审、决赛节点 |
 
 ## 部署与自动化
 
